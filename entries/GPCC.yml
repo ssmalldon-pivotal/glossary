@@ -1,6 +1,7 @@
 ---
 headword: GPCC
-expansion: 
-definition:
-links:
-see_also:
+expansion: Greenplum Command Center
+definition:Greenplum Command Center monitors system performance metrics, analyzes cluster health, and enables database administrators to perform management tasks in a Greenplum Database environment.
+Greenplum Command Center provides a browser-native HTML5 graphical console for viewing Greenplum Database system metrics and performing certain database administrative tasks. 
+links: http://gpcc.docs.pivotal.io/400/topics/overview.html
+see_also: Greenplum
